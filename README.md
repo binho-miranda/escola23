@@ -1,2 +1,2 @@
-# escola23
- API com NODE + Express + MySQL
+# escola-api
+ API utilizando NodeJs + Express
